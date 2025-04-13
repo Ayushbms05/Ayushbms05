@@ -31,7 +31,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar-63b69a307)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushkumar.cd24@bmsce.ac.in)
 
-![Typing...](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=61F7F7&center=true&vCenter=true&width=435&lines=Coding+MongoDB+Projects+;Learning+Full+Stack+;Just+Doing+My+Thing+😎)
+![Typing...](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=61F7F7&center=true&vCenter=true&width=435&lines=Coding+MongoDB+Projects+;Learning+Full+Stack+;On+Air+Bnb+Project+😎)
 
 <!--
 **Ayushbms05/Ayushbms05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
